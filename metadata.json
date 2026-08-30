@@ -1,0 +1,7 @@
+{
+  "name": "Customer Service Chatbot",
+  "description": "A simple and beginner-friendly web-based customer service chatbot powered by Google Gemini with FAQ knowledge base grounding and intent recognition.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
